@@ -50,7 +50,7 @@ h1 {
 }
 
 .contacto strong {
-    color: #68ab2a;
+    color: #c1780f;
 }
 
 /* ========================= */
@@ -69,7 +69,7 @@ h1 {
 }
 
 #search:focus {
-    box-shadow: 0 0 10px rgba(104,171,42,.6);
+    box-shadow: 0 0 10px rgba(193,120,23,.6);
 }
 
 /* ========================= */
@@ -86,7 +86,7 @@ h1 {
 
 .tab {
     padding: 12px 22px;
-    background: #d2f0b6;
+    background: #f4dfb8;
     color: black;
     border-radius: 30px;
     cursor: pointer;
@@ -99,9 +99,9 @@ h1 {
 }
 
 .tab.active {
-    background: #68ab2a;
+    background: #c1780f;
     color: white;
-    box-shadow: 0 0 15px rgba(104,171,42,.6);
+    box-shadow: 0 0 15px rgba(193,120,23,.6);
 }
 
 /* ========================= */
@@ -119,7 +119,7 @@ h1 {
 /* ========================= */
 
 .card {
-    background: #68ab2a;
+    background: #c1780f;
     color: white;
     padding: 18px; /* Ligeramente reducido para hacerla más compacta */
     border-radius: 15px;
@@ -214,7 +214,7 @@ h1 {
 }
 
 .stock.disponible {
-    color: #d9ffd0;
+    color: #ffe8c2;
 }
 
 .stock.agotado {
@@ -247,12 +247,12 @@ h1 {
 }
 
 ::-webkit-scrollbar-thumb {
-    background: #68ab2a;
+    background: #c1780f;
     border-radius: 20px;
 }
 
 ::-webkit-scrollbar-thumb:hover {
-    background: #7ec63b;
+    background: #e0973f;
 }
 
 /* ========================= */
