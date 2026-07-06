@@ -9,6 +9,7 @@ const HOJAS = [
     "Azteca",
     "Allmatic",
     "Controles",
+    "Electronica",
     "Refacciones"
 ];
 
@@ -149,16 +150,12 @@ function renderProducts() {
                 ) || 0
             );
 
-            // --- NUEVO: Generamos la ruta de la imagen ---
-            // Usamos encodeURIComponent para que los espacios y caracteres raros no rompan la URL
             const rutaImagen = `Imagenes/${encodeURIComponent(descripcion)}.png`;
 
             const card = document.createElement("div");
 
             card.className = "card";
 
-            // --- NUEVO: Agregamos la etiqueta <img> ---
-            // El atributo onerror oculta la imagen si por alguna razón no se encuentra en la carpeta
             card.innerHTML = `
                 <h3>${descripcion}</h3>
 
