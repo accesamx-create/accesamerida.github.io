@@ -10,6 +10,9 @@ const HOJAS = [
     "Allmatic",
     "Controles",
     "Electronica",
+    "Control de Acceso",
+    "Resortes",
+    "Herrajes",
     "Refacciones"
 ];
 
