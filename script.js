@@ -9,10 +9,11 @@ const HOJAS = [
     "Azteca",
     "Allmatic",
     "Controles",
-    "Electronica",
+    "Herrajes",
+    "Centrales y tarjetas electronicas",
+    "Dispositivos y accesorios electronicos",
     "Control de Acceso",
     "Resortes",
-    "Herrajes",
     "Refacciones"
 ];
 
