@@ -321,12 +321,12 @@ h1 {
 .btn {
   display: inline-block;
   padding: 10px 20px;
-  background: #68ab2a;
+  background: #c1780f;
   color: white;
   text-decoration: none;
   border-radius: 5px;
 }
 
 .btn:hover {
-  background: #5a9224;
+  background: #c1780f;
 }
