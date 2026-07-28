@@ -317,3 +317,16 @@ h1 {
         margin-bottom: 10px;
     }
 }
+
+.btn {
+  display: inline-block;
+  padding: 10px 20px;
+  background: #68ab2a;
+  color: white;
+  text-decoration: none;
+  border-radius: 5px;
+}
+
+.btn:hover {
+  background: #5a9224;
+}
